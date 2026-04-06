@@ -14,4 +14,6 @@ Aethel is a high-performance, futuristic corporate web design agency platform. T
 * 🎨 Futuristic, responsive, and neon-themed UI/UX.
 
 ### 📸 Preview
-*(https://cdn.discordapp.com/attachments/1487809416689483967/1490670130122985693/image.png?ex=69d4e63e&is=69d394be&hm=3a279749278ecaf4356e60dcdeedc1f433a42e1da5b47da555af3f09931f2fb1&)*
+**<img width="1428" height="779" alt="imlklage" src="https://github.com/user-attachments/assets/4343e775-b047-4dcc-b2a1-0f55f07b9aa4" />
+<img width="1423" height="781" alt="şşkşl" src="https://github.com/user-attachments/assets/2d585d42-ce9d-431e-9f6f-9e968c19ed38" />
+<img width="1425" height="780" alt="şşk" src="https://github.com/user-attachments/assets/561a9bdc-86ad-46d0-8449-5d6182b5c776" />
